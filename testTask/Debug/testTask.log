@@ -1,0 +1,8 @@
+﻿  Tape.cpp
+C:\Users\Алексей\source\repos\testTask\testTask\Tape.h(35,7): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+  Tapeclass.cpp
+C:\Users\Алексей\source\repos\testTask\testTask\Tape.h(35,7): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+  testTask.cpp
+C:\Users\Алексей\source\repos\testTask\testTask\Tape.h(35,7): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+  Создание кода...
+  testTask.vcxproj -> C:\Users\Алексей\source\repos\testTask\Debug\testTask.exe
